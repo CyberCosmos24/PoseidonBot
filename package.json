@@ -1,0 +1,16 @@
+{
+  "name": "poseidon-bot",
+  "version": "1.0.0",
+  "description": "Mod Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pegasus",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.7",
+    "nekos.life": "^2.0.7"
+  }
+}
