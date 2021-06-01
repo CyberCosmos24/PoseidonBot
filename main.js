@@ -109,4 +109,4 @@ client.on('ready', () => {
 
 
 
-    client.login('ODMwNzE1MDMwMjQ4MjI2ODI4.YHKtqQ.90rbYSIvIsC_IUnTGCnssUw5RdA')
+    client.login(TOKEN)
