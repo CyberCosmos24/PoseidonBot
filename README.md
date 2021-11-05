@@ -1,3 +1,3 @@
-# PositiveBot
+# Poseidon Bot
 
-One of many discord.js bots
+A small moderation bot made with discord.js!
